@@ -1,17 +1,15 @@
 <div align="center">
  
-# Online API's Tools - Free Rest API
-[![CodeFactor](https://www.codefactor.io/repository/github/athallahdzaki/freerestapi2/badge)](https://www.codefactor.io/repository/github/athallahdzaki/freerestapi2)
+# ES KERING Online API's Tools
 <details>
  <summary>Sedekah :)</summary>
 
- [![Saweria](https://chrientmip.xyz/content/images/2020/04/saweriadotco.jpg)](https://saweria.co/freerestapi)
- [![Trakteer](https://cdn.trakteer.id/images/mix/navbar-logo.png)](https://trakteer.id/freerestapi)
+ [![Saweria](https://chrientmip.xyz/content/images/2020/04/saweriadotco.jpg)](https://saweria.co/HAFizhscrcipt)
  
 </details>
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AthallahDzaki/freerestapi2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]
 
 ### Our Features
 ```
@@ -41,4 +39,4 @@
  - Hilih Generate
  - Spam WhatsApp  (Not For Public)
 ```
-### Athallah Dzaki
+### ES KERING
